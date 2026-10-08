@@ -19,29 +19,29 @@ All mods together just passed 2,000 downloads, and BetterFog alone hit 1,000 �
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://github.com/JevMods/BetterFog"><img src="https://raw.githubusercontent.com/JevMods/BetterFog/main/package/icon.png" width="128" alt="BetterFog"></a><br>
       <a href="https://github.com/JevMods/BetterFog"><b>BetterFog</b></a> 🌫️<br>
       Thinner fog, mist and smoke. Still there, just not blinding.
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://github.com/JevMods/BetterGrapplingHook"><img src="https://raw.githubusercontent.com/JevMods/BetterGrapplingHook/main/package/icon.png" width="128" alt="BetterGrapplingHook"></a><br>
       <a href="https://github.com/JevMods/BetterGrapplingHook"><b>BetterGrapplingHook</b></a> 🪝<br>
       Pulls you all way, sticks to surface, comes back on its own.
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://github.com/JevMods/JevIntroSkip"><img src="https://raw.githubusercontent.com/JevMods/JevIntroSkip/main/package/icon.png" width="128" alt="JevIntroSkip"></a><br>
       <a href="https://github.com/JevMods/JevIntroSkip"><b>JevIntroSkip</b></a> ⏩<br>
       Skips logos, cinematics, lore text and Valkyrie flight.
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://github.com/JevMods/YouDied"><img src="https://raw.githubusercontent.com/JevMods/YouDied/main/package/icon.png" width="128" alt="YouDied"></a><br>
       <a href="https://github.com/JevMods/YouDied"><b>YouDied</b></a> 💀<br>
       Dark Souls "You died" banner and sound when you die.
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://github.com/JevMods/JevControllerKeyboard"><img src="https://raw.githubusercontent.com/JevMods/JevControllerKeyboard/main/package/icon.png" width="128" alt="JevControllerKeyboard"></a><br>
       <a href="https://github.com/JevMods/JevControllerKeyboard"><b>JevControllerKeyboard</b></a> ⌨️<br>
       On-screen keyboard for gamepads. Xbox, PlayStation and Switch, every game language.
