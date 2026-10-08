@@ -40,7 +40,16 @@ All mods together just passed 2,000 downloads, and BetterFog alone hit 1,000 �
       Dark Souls "You died" banner and sound when you die.
     </td>
   </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/JevMods/JevControllerKeyboard"><img src="https://raw.githubusercontent.com/JevMods/JevControllerKeyboard/main/package/icon.png" width="128" alt="JevControllerKeyboard"></a><br>
+      <a href="https://github.com/JevMods/JevControllerKeyboard"><b>JevControllerKeyboard</b></a> ⌨️<br>
+      On-screen keyboard for gamepads. Xbox, PlayStation and Switch, every game language.
+    </td>
+  </tr>
 </table>
+
+JevControllerKeyboard was very tough to make, by far the hardest one so far. Layouts, accents and typing Japanese, Korean and Chinese from a gamepad took way more work than I expected 😅 If a language feels off, tell me.
 
 ## Grab them 📦
 
