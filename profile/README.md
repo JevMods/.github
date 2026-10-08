@@ -9,7 +9,7 @@
 
 Here's where my Valheim mods live. Every one started same way: something in game kept annoying me, I got sick of it, so I fixed it. Fog that's everywhere and keeps me from finding dungeons in Mistlands, unreliable grappling hook, long unskippable intros... 😤
 
-Mods are small on purpose. Each does one thing and has config file, so you can tune it or turn bits off. Logo is rune Jera (ᛃ), J sound, drawn so it also looks like code brackets 😎 Everything's open source, so poke around, borrow what's useful, tell me what's broken.
+Mods are small on purpose. Each does one thing, and most have config file, so you can tune it or turn bits off. Logo is rune Jera (ᛃ), J sound, drawn so it also looks like code brackets 😎 Everything's open source, so poke around, borrow what's useful, tell me what's broken.
 
 ## 2,000 downloads, wow 🎉
 
@@ -45,6 +45,11 @@ All mods together just passed 2,000 downloads, and BetterFog alone hit 1,000 �
       <a href="https://github.com/JevMods/JevControllerKeyboard"><img src="https://raw.githubusercontent.com/JevMods/JevControllerKeyboard/main/package/icon.png" width="128" alt="JevControllerKeyboard"></a><br>
       <a href="https://github.com/JevMods/JevControllerKeyboard"><b>JevControllerKeyboard</b></a> ⌨️<br>
       On-screen keyboard for gamepads. Xbox, PlayStation and Switch, every game language.
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/JevMods/BetterTombstoneHints"><img src="https://raw.githubusercontent.com/JevMods/BetterTombstoneHints/main/package/icon.png" width="128" alt="BetterTombstoneHints"></a><br>
+      <a href="https://github.com/JevMods/BetterTombstoneHints"><b>BetterTombstoneHints</b></a> 🪦<br>
+      Tombstones show what killed you and on which day.
     </td>
   </tr>
 </table>
