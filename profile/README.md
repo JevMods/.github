@@ -56,6 +56,11 @@ All mods together just passed 2,000 downloads, and BetterFog alone hit 1,000 �
       <a href="https://github.com/JevMods/JevZiplines"><b>JevZiplines</b></a> 🚡<br>
       Place zipline posts anywhere, wire them up and ride downhill. Synced on servers.
     </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/JevMods/BetterOreMining"><img src="https://raw.githubusercontent.com/JevMods/BetterOreMining/main/package/icon.png" width="128" alt="BetterOreMining"></a><br>
+      <a href="https://github.com/JevMods/BetterOreMining"><b>BetterOreMining</b></a> ⛏️<br>
+      Every pickaxe hit sends a ripple that outlines nearby ore, even buried.
+    </td>
   </tr>
 </table>
 
